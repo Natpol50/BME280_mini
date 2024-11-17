@@ -4,12 +4,12 @@ A lightweight Arduino library for the Bosch BME280 environmental sensor using so
 
 ## Features
 
-
 - Software I2C implementation - use any digital pins for communication
 - No dependency on Wire library
-- Low memory footprint compared to current bme280 libraries (November 2024)
+- Low memory footprint
 - Simple API for reading environmental data
 - Power management functions (sleep/wake)
+- Supports both 0x76 and 0x77 I2C addresses
 
 ## Hardware Setup
 
@@ -148,7 +148,7 @@ Contributions to improve the library are welcome. Please submit a pull request o
 
 ## Credits
 
-Created by Asha Geyon (Natpol50) 🦊
+Created by Asha Geyon (Natpol50) 🦊 
 No other contributions for now
 
 ## License
