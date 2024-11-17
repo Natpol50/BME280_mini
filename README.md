@@ -123,7 +123,7 @@ void loop() {
 - `BME280_Mini(uint8_t sda, uint8_t scl, uint8_t addr = 0x76)`
   - `sda`: Data pin number
   - `scl`: Clock pin number
-  - `addr`: I2C address (default 0x76)
+  - `addr`: I2C address (default 0x76, some could have 0x77)
 
 ### Methods
 
