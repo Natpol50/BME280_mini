@@ -146,6 +146,10 @@ struct Data {
 
 Contributions to improve the library are welcome. Please submit a pull request or create an issue to discuss proposed changes.
 
+## Why no updates ? 
+
+The librayr works fine, and no change seems to be needed for now.
+
 ## Credits
 
 Created by Asha Geyon (Natpol50) 🦊 
